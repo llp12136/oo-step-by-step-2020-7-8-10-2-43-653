@@ -46,8 +46,6 @@ public class CLass {
         this.teacher = teacher;
     }
 
-
-
     public void addStudent(Student student) {
         this.students.add(student);
     }
